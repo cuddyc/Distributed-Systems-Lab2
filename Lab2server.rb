@@ -78,4 +78,5 @@ class Server
 
 end
 
-s = Server.new(2000)
+port = ARGV.shift
+s = Server.new(port)

@@ -1,1 +1,1 @@
-ruby Lab2/Lab2server.rb $1
+ruby Lab2server.rb $1
